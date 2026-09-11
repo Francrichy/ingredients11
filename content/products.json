@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Almond Flavor",
+      "category": "Nuts & Seeds",
+      "price": 8000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Almond+Flavor"
+    },
+    {
+      "id": 2,
+      "name": "Apto Vanilla Essence",
+      "category": "Vanilla",
+      "price": 8000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Vanilla+Essence"
+    },
+    {
+      "id": 3,
+      "name": "Apple Flavor",
+      "category": "Fruits",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Apple+Flavor"
+    },
+    {
+      "id": 4,
+      "name": "Banana Paste",
+      "category": "Fruits",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Banana+Paste"
+    },
+    {
+      "id": 5,
+      "name": "Banana Fresh Flavor",
+      "category": "Fruits",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Banana+Fresh"
+    },
+    {
+      "id": 6,
+      "name": "Banana Paste",
+      "category": "Fruits",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Banana+Paste"
+    },
+    {
+      "id": 7,
+      "name": "Banana Powder Flavor",
+      "category": "Powders",
+      "price": 0,
+      "unit": "200g",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Banana+Powder"
+    },
+    {
+      "id": 8,
+      "name": "Blueberry Flavor",
+      "category": "Fruits",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Blueberry"
+    },
+    {
+      "id": 9,
+      "name": "Bombastic Flavor",
+      "category": "Special",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Bombastic"
+    },
+    {
+      "id": 10,
+      "name": "Bubblegum Flavor",
+      "category": "Candy",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Bubblegum"
+    },
+    {
+      "id": 11,
+      "name": "Butter Flavor",
+      "category": "Dairy",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Butter"
+    },
+    {
+      "id": 12,
+      "name": "Butter Powder Flavor",
+      "category": "Powders",
+      "price": 0,
+      "unit": "200g",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Butter+Powder"
+    },
+    {
+      "id": 13,
+      "name": "Butter Powder Premium",
+      "category": "Powders",
+      "price": 0,
+      "unit": "200g",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Butter+Premium"
+    },
+    {
+      "id": 14,
+      "name": "Butterscotch Flavor",
+      "category": "Candy",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Butterscotch"
+    },
+    {
+      "id": 15,
+      "name": "Butter-Vanilla Flavor",
+      "category": "Vanilla",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Butter+Vanilla"
+    },
+    {
+      "id": 16,
+      "name": "Caramel Flavor",
+      "category": "Candy",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Caramel"
+    },
+    {
+      "id": 17,
+      "name": "Caramel Paste",
+      "category": "Pastes",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Caramel+Paste"
+    },
+    {
+      "id": 18,
+      "name": "Cardamom Flavor",
+      "category": "Spices",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Cardamom"
+    },
+    {
+      "id": 19,
+      "name": "Chocolate Paste",
+      "category": "Pastes",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Chocolate"
+    },
+    {
+      "id": 20,
+      "name": "Cinnamon Flavor",
+      "category": "Spices",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Cinnamon"
+    },
+    {
+      "id": 21,
+      "name": "Cocomilk Flavor",
+      "category": "Dairy",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Cocomilk"
+    },
+    {
+      "id": 22,
+      "name": "Cocomilk Powder Flavor",
+      "category": "Powders",
+      "price": 0,
+      "unit": "200g",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Cocomilk+Powder"
+    },
+    {
+      "id": 23,
+      "name": "Coconut Flavor",
+      "category": "Fruits",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Coconut"
+    },
+    {
+      "id": 24,
+      "name": "Coconut Powder Flavor",
+      "category": "Powders",
+      "price": 0,
+      "unit": "200g",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Coconut+Powder"
+    },
+    {
+      "id": 25,
+      "name": "Coffee Flavor",
+      "category": "Beverages",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Coffee"
+    },
+    {
+      "id": 26,
+      "name": "Condensed Milk Flavor",
+      "category": "Dairy",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Condensed+Milk"
+    },
+    {
+      "id": 27,
+      "name": "Fruit-Berry Flavor",
+      "category": "Fruits",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Berry"
+    },
+    {
+      "id": 28,
+      "name": "Frutti Flavor",
+      "category": "Fruits",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Frutti"
+    },
+    {
+      "id": 29,
+      "name": "Fursana Emulsion",
+      "category": "Emulsions",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Fursana"
+    },
+    {
+      "id": 30,
+      "name": "Garlic Flavor",
+      "category": "Spices",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Garlic"
+    },
+    {
+      "id": 31,
+      "name": "Gin Flavor",
+      "category": "Beverages",
+      "price": 0,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Gin"
+    },
+    {
+      "id": 32,
+      "name": "Ginger Flavor",
+      "category": "Spices",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Ginger"
+    },
+    {
+      "id": 33,
+      "name": "Grape Flavor",
+      "category": "Fruits",
+      "price": 0,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Grape"
+    },
+    {
+      "id": 34,
+      "name": "Guava Emulsion",
+      "category": "Emulsions",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Guava"
+    },
+    {
+      "id": 35,
+      "name": "Ice Cream Flavor",
+      "category": "Dairy",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Ice+Cream"
+    },
+    {
+      "id": 36,
+      "name": "Lemon Flavor",
+      "category": "Fruits",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Lemon"
+    },
+    {
+      "id": 37,
+      "name": "Lemon Mint Flavor",
+      "category": "Fruits",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Lemon+Mint"
+    },
+    {
+      "id": 38,
+      "name": "Lemon Paste",
+      "category": "Pastes",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Lemon+Paste"
+    },
+    {
+      "id": 39,
+      "name": "Mango Emulsion",
+      "category": "Emulsions",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Mango"
+    },
+    {
+      "id": 40,
+      "name": "Mango Flavor",
+      "category": "Fruits",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Mango"
+    },
+    {
+      "id": 41,
+      "name": "Mangomix Flavor",
+      "category": "Fruits",
+      "price": 10000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Mangomix"
+    },
+    {
+      "id": 42,
+      "name": "Marie Biscuit Flavor",
+      "category": "Bakery",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Marie+Biscuit"
+    },
+    {
+      "id": 43,
+      "name": "Milk Emulsion",
+      "category": "Dairy",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Milk+Emulsion"
+    },
+    {
+      "id": 44,
+      "name": "Milk Flavor",
+      "category": "Dairy",
+      "price": 12000,
+      "unit": "200ml",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Milk"
+    },
+    {
+      "id": 45,
+      "name": "Milk Powder Flavor",
+      "category": "Powders",
+      "price": 0,
+      "unit": "200g",
+      "image": "https://via.placeholder.com/400x300/eef2f5/6b7a88?text=Milk+Powder"
+    }
+  ]
+}
